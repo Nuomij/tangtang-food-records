@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[46107,["/tangtang-food-records/_next/static/chunks/0dbhjjzl8qfwv.js","/tangtang-food-records/_next/static/chunks/0x7c9sjs98yao.js","/tangtang-food-records/_next/static/chunks/0g05hko995n3r.js"],"default"]
+2:I[46107,["/tangtang-food-records/_next/static/chunks/0dbhjjzl8qfwv.js","/tangtang-food-records/_next/static/chunks/0x7c9sjs98yao.js","/tangtang-food-records/_next/static/chunks/0nxb-9exdu3jd.js"],"default"]
 3:I[97367,["/tangtang-food-records/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/tangtang-food-records/_next/static/chunks/0x7c9sjs98yao.js","async":true}],["$","script","script-1",{"src":"/tangtang-food-records/_next/static/chunks/0g05hko995n3r.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0FGO8d2GSwJ6AlnLZD16i"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/tangtang-food-records/_next/static/chunks/0x7c9sjs98yao.js","async":true}],["$","script","script-1",{"src":"/tangtang-food-records/_next/static/chunks/0nxb-9exdu3jd.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dsmqCG_fZVbRLG1EceaUm"}
 5:null
