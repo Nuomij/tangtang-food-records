@@ -1,4 +1,4 @@
-const CACHE_NAME = "tangtang-static-v1.1.5";
+const CACHE_NAME = "tangtang-static-v1.1.6";
 const BASE_PATH = new URL(self.registration.scope).pathname.replace(/\/$/, "");
 const APP_ROOT = `${BASE_PATH}/`;
 const APP_SHELL = [APP_ROOT, `${BASE_PATH}/manifest.webmanifest`, `${BASE_PATH}/app-icon.svg`];
