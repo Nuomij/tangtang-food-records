@@ -1,2 +1,2 @@
-:HL["/tangtang-food-records/_next/static/chunks/0e7~qoh5721hv.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"WMBRopownBg4_Wx2l01Ag"}
+:HL["/tangtang-food-records/_next/static/chunks/0j-1t_9829ut4.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"AT2AwpMjOl3wvCEdpAcKB"}
