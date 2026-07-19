@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[9066,["619","static/chunks/619-78ec3d9a6c844203.js","974","static/chunks/app/page-fd2e7e2aef189191.js"],"default"]
-3:I[484,[],"OutletBoundary"]
+2:I[46107,["/tangtang-food-records/_next/static/chunks/0dbhjjzl8qfwv.js","/tangtang-food-records/_next/static/chunks/0x7c9sjs98yao.js","/tangtang-food-records/_next/static/chunks/0-5e42dop2zc..js"],"default"]
+3:I[97367,["/tangtang-food-records/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BN7ACTXWXAjcj9Lp6mHe6"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/tangtang-food-records/_next/static/chunks/0x7c9sjs98yao.js","async":true}],["$","script","script-1",{"src":"/tangtang-food-records/_next/static/chunks/0-5e42dop2zc..js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Q7ODGBDS-qVhIBDWPAT2c"}
 5:null
